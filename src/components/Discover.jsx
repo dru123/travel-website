@@ -12,34 +12,30 @@ const Discover = () => {
             alt=""
           />
           <div>
-            <h2 className="font-bold">Lorem, ipsum dolor.</h2>
-            <h1 className="text-2xl font-bold">Lorem ipsum dolor sit amet.</h1>
+            <h2 className="font-bold">RAJASTHAN.</h2>
+            <h1 className="text-2xl font-bold">The Beauty of Rajasthan.</h1>
           </div>
           <p className="text-sm">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos in
-            consectetur eius tempora qui aperiam error natus iste architecto
-            distinctio ea inventore iusto quos ullam fuga doloremque quod dicta
-            libero non maiores, deleniti atque cumque? Et rerum animi quibusdam
-            laboriosam!
+            There’s something magical about exploring a new city—stepping onto
+            unfamiliar streets, the air filled with possibilities. Every corner
+            tells a story, every sunset offers a new perspective. Time seems to
+            slow down, yet every second feels more precious than the last.
           </p>
           <p className="text-sm">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos in
-            consectetur eius tempora qui aperiam error natus iste architecto
-            distinctio ea inventore iusto quos ullam fuga doloremque quod dicta
-            libero non maiores, deleniti atque cumque? Et rerum animi quibusdam
-            laboriosam!
+            Traveling isn't just about seeing places; it’s about feeling them.
+            The energy of a bustling market, the quiet beauty of a hidden alley,
+            the way the sky changes color as you move. Each moment is fleeting,
+            but in the heart of a traveler, it stays forever
           </p>
         </div>
         <div className="w-full space-y-4 text-left">
-          <h2 className="font-bold">Lorem ipsum dolor sit.</h2>
-          <h1 className="font-bold text-2xl">Lorem ipsum dolor sitamet.</h1>
+          <h2 className="font-bold">DUBAI.</h2>
+          <h1 className="font-bold text-2xl">Travelling is life.</h1>
           <p className="text-sm">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus
-            assumenda rem, autem accusamus magni nam culpa aut perspiciatis,
-            totam beatae reiciendis repellendus eligendi? Qui. Lorem ipsum dolor
-            sit amet consectetur adipisicing elit. Delectus assumenda rem, autem
-            accusamus magni nam culpa aut perspiciatis, totam beatae reiciendis
-            repellendus eligendi? Qui.
+            Traveling isn't just about seeing places; it’s about feeling them.
+            The energy of a bustling market, the quiet beauty of a hidden alley,
+            the way the sky changes color as you move. Each moment is fleeting,
+            but in the heart of a traveler, it stays forever
           </p>
           <img
             className="drop-shadow-2xl border-8 border-stones-700 rounded-lg cursor-pointer opacity-80 hover:opacity-100 duration-200"
@@ -71,14 +67,16 @@ const Discover = () => {
           />
         </div>
         <div className="xl:w-[500px] p-5 text-center space-y-5 sm:space-y-2">
-          <h1 className="md:text-xl sm:text-sm">Lorem ipsum dolor sit.</h1>
+          <h1 className="md:text-xl sm:text-sm">Step into Royalty.</h1>
           <h2 className="md:text-4xl sm:text-base">
-            Lorem ipsum dolor sitamet.
+            Explore the Splendor of Palaces.
           </h2>
           <p className="md:text-base sm:text-xs">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore rem
-            perspiciatis quod.orem ipsum dolor sit amet consectetur adipisicing
-            elit. Tempore rem perspiciatis quod.
+            The world is vast, yet time is not. Every journey you take is an
+            invitation to live fully, to connect with new cultures, and to
+            create memories that will never fade. So pack your bags, step into
+            the unknown, and embrace the adventure. Because time will never come
+            back, but the love for traveling will stay with you forever.
           </p>
           <button className="mt-5 px-5 py-2 border border-black hover:bg-gray-400 hover:duration-300">
             Book Now

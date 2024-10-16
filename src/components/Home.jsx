@@ -19,15 +19,15 @@ const Home = () => {
 
       <nav className="w-full absolute top-0 p-5 flex justify-between text-white z-10">
         <div>
-          <h1 className="text-3xl font-bold cursor-pointer">قطر</h1>
+          <h1 className="text-3xl font-bold cursor-pointer">Travel</h1>
         </div>
 
         <div>
           <ul className="flex space-x-5 font-bold cursor-pointer text-gray-300">
-            <li className="hover:text-white">Doha</li>
-            <li className="hover:text-white">Al Wakrah</li>
-            <li className="hover:text-white">Al Rayan</li>
-            <li className="hover:text-white">Al Khor</li>
+            <li className="hover:text-white">Places</li>
+            <li className="hover:text-white">Hotels</li>
+            <li className="hover:text-white">Cabs</li>
+            <li className="hover:text-white">Foods</li>
           </ul>
 
           <div className="flex items-center space-x-2 mt-5">
@@ -44,14 +44,11 @@ const Home = () => {
 
       <div className="absolute top-0 h-screen flex flex-col space-y-10 justify-center items-center bg-black opacity-75 xl:w-1/3 sm:w-1/2 z-0">
         <div className="text-white text-center space-y-5">
-          <h2 className="text-2xl font-bold cursor-default">D I S C O V E R</h2>
-          <h1 className="text-5xl font-bold cursor-default">Q A T A R</h1>
-          <p className="mx-10 text-gray-400 cursor-default">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem quam
-            consequatur, necessitatibus dolorem, provident voluptas esse
-            recusandae impedit distinctio laboriosam modi a nulla ratione
-            quaerat?
-          </p>
+          <h2 className="text-2xl font-bold cursor-default">
+            A D V E N T U R E
+          </h2>
+          <h1 className="text-4xl font-bold cursor-default">A W A I T S</h1>
+          <p className="mx-10 text-gray-400 cursor-default"></p>
         </div>
 
         <div className="space-x-4">

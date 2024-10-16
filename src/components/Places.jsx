@@ -7,8 +7,10 @@ const Places = () => {
       <div className="w-full xl:w-1/2 m-auto text-center my-10 space-y-5">
         <h1 className="text-4xl font-bold">Places not to be missed</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, a
-          quibusdam. Et nostrum accusamus sunt fugiat, corrupti aut sint totam.
+          There’s something magical about exploring a new city—stepping onto
+          unfamiliar streets, the air filled with possibilities. Every corner
+          tells a story, every sunset offers a new perspective. Time seems to
+          slow down, yet every second feels more precious than the last.
         </p>
       </div>
 
@@ -68,12 +70,11 @@ const Places = () => {
             />
             <div className="p-4 space-y-4">
               <div className="flex justify-between">
-                <p className="text-sm text-red-400">Lorem, ipsum.</p>
+                <p className="text-sm text-red-400">RAJASTHAN.</p>
                 <p className="font-bold">$500</p>
               </div>
               <p className="font-semibold">
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                Facere!
+                Witness the Eternal Symbol of Love: The Sand!
               </p>
               <div className="flex justify-between items-center">
                 <h2>15 days tour</h2>
@@ -92,12 +93,12 @@ const Places = () => {
             />
             <div className="p-4 space-y-4">
               <div className="flex justify-between">
-                <p className="text-sm text-red-400">Lorem, ipsum.</p>
-                <p className="font-bold">$500</p>
+                <p className="text-sm text-red-400">DUBAI.</p>
+                <p className="font-bold">$1500</p>
               </div>
               <p className="font-semibold">
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                Facere!
+                Backwaters, Beaches, and Bliss: Discover Kerala’s Natural
+                Wonders!
               </p>
               <div className="flex justify-between items-center">
                 <h2>15 days tour</h2>
@@ -116,12 +117,11 @@ const Places = () => {
             />
             <div className="p-4 space-y-4">
               <div className="flex justify-between">
-                <p className="text-sm text-red-400">Lorem, ipsum.</p>
+                <p className="text-sm text-red-400">Rishikesh.</p>
                 <p className="font-bold">$500</p>
               </div>
               <p className="font-semibold">
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                Facere!
+                Find Your Inner Peace in the Tranquil Serenity of Rishikesh!
               </p>
               <div className="flex justify-between items-center">
                 <h2>15 days tour</h2>
